@@ -1,0 +1,32 @@
+body{
+    background-image: url(bg.png);
+    background-size: cover;
+}
+#heading{
+    border-radius: 75px;
+    height: 70px;
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+#note{
+    font-family: cursive;
+    margin-bottom: 20px;
+    color: blueviolet;
+}
+.name_of_people{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+#note2{
+    font-family: cursive;
+    margin-bottom: 20px;
+    color: blueviolet;
+}
+button{
+    width: 200px;
+}
+#texts{
+    color:crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
